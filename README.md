@@ -81,3 +81,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Connect with Me
+
+- LinkedIn: [Vikas Kulari](https://www.linkedin.com/in/vikas-kulari-16013b198)
+- Portfolio: https://vikas-kulari.netlify.app
